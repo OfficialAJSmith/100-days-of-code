@@ -14,7 +14,15 @@
 
 **Thoughts**: It was interesting watching the video sponsored by FreeCodeCamp about Jqueary and Json for my next project. I missed part of day two but making up for it by doing two hours on the third day. 
 
-### Day 3: Nov 27 2018
+
+### Day 3: Nov 29 2018
+
+**Today's Progress**: Day 3 of #100DaysOfCode I did some refreshing on Bootstrap 4 and planned my layout for the design of the #Minecraft status page. And it looks like for some reason my day two tweet mentions day 3 lol.
+
+**Thoughts**: Read some of the Bootstrap 4 docs. 
+
+
+### Day 4: Nov 30 2018
 
 **Today's Progress**: Day 4 of #100DaysOfCode  I worked on my #minecraft template and some bootstrap 4 stuff.  Will do the backend work and mess around with some Handlebar.js tomorrow.
 
