@@ -27,3 +27,11 @@
 **Today's Progress**: Day 4 of #100DaysOfCode  I worked on my #minecraft template and some bootstrap 4 stuff.  Will do the backend work and mess around with some Handlebar.js tomorrow.
 
 **Thoughts**: There is a ton of Bootstrap 4 classes. Good thing search engines are around to find them until I learn some of them. 
+
+### Day 5: Dec 1 2018
+
+**Today's Progress**: 
+Day 5 of #100DaysOfCode: Today I got my Javascript/Json backend to work for the #Minecraft status page. Tomorrow I will tweak it and clean it up for mobile viewing. Maybe add some more features.
+
+**Thoughts**: I worked on using jquery to setup my data points. Need to work on somemore Handlebars.js
+
