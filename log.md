@@ -35,3 +35,20 @@ Day 5 of #100DaysOfCode: Today I got my Javascript/Json backend to work for the 
 
 **Thoughts**: I worked on using jquery to setup my data points. Need to work on somemore Handlebars.js
 
+**Today's Progress**: 
+Day 6 of #100DaysOfCode Today I played around with some #CSS border styles to decide if that's what I want to surround my server status info. I think I may looking something different.  Will have to scan some websites for inspiration.
+
+**Thoughts**: Can't seem to get Jquery and Handlebar.js to work together. Will need to look into it more. 
+
+**Today's Progres**:
+Day 7 of #100DaysOfCode #freeCodeCamp
+Today I watched some more tutorials on #handlebarsjs and attempted to setup a Mac OS #VM. The input is not liking my mouse. Will try a different mouse in morning
+
+**Thoughts**: I want to mess round in MacOS soon, so hopefully I get a VM to work soon. 
+
+**Today's Progres**:
+Day of 8 #100DaysOfCode #freeCodeCamp 
+Today I reviewed some lessons on #freeCodeCamp  and worked out the semi final media query for my #minecraft server page project.
+
+**Thoughts**: Having some issues with getting the mobile view stuff to work as I intended. Might just have to make myself learn better responsive html/css3/JS
+
