@@ -58,7 +58,7 @@ Today I reviewed some lessons on #freeCodeCamp  and worked out the semi final me
 
 **Thoughts**: Having some issues with getting the mobile view stuff to work as I intended. Might just have to make myself learn better responsive html/css3/JS
 
-### Day 9: Dec 11 2018
+### Day 9: Dec 8 2018
 
 **Today's Progress**
 Day 9 of #100daysofcode @udemy Today I worked on The Web Developer Bootcamp. It was updated with Bootstrap 4, so I decided to go through for some review.  Its by Colt Steele @CodeColt if anyone is interested in it.
@@ -66,10 +66,19 @@ Day 9 of #100daysofcode @udemy Today I worked on The Web Developer Bootcamp. It 
 **Thoughts** Bootstrap 4 is going to be a great tool to add to my belt. 
 
 
-### Day 10: Dec 12 2018
+### Day 10: Dec 9 2018
 
 **Today's Progress**
 
 Day 10 of #100DaysOfCode I worked on @freeCodeCamp in the Applied Accessibility section. Some of it was review from my Web Developer BootCamp. But I did learn a few new things. I also looked up some #vscode extensions to help work flow.
 
 **Thoughts** Learning about the the Accessibity was interesting. Can't wait to get through the rest of FreeCodeCamp
+
+### Day 11: Dec 10 2018
+
+**Today's Progress**
+
+Day 11 of #100DaysOfCode I worked on some more of the new stuff in Bootstrap 4 content on my @udemy course. It's exciting to see some new responsive additions and sizes.  During lunch I read some #freeCodeCamp articles.
+
+**Thoughts** I'm really excited about the Bootstrap 4 stuff. 
+
