@@ -82,3 +82,26 @@ Day 11 of #100DaysOfCode I worked on some more of the new stuff in Bootstrap 4 c
 
 **Thoughts** I'm really excited about the Bootstrap 4 stuff. 
 
+### Day 12: Dec 12 2018
+
+**Today's Progress**
+
+Today for #100DaysOfCode (12/100) I worked on reading some more #Handlebarjs and #jQuery information. I also did some research on Virtual Box. Also went to @hacklafayette  meet-up plus some dinner afterwords.
+
+**Thoughts** Learned some new stuff at the meet-up and reading documentation was helpful. 
+
+### Day 13: Dec 13 2018
+
+**Today's Progress**
+Today on #100DaysOfCode I signed up for #javascript30 and made most of the Drum Kit. An update on my virtualbox, I did get MacOS to work.  Will update Github and daily log tomorrow with the finished drum kit.
+
+**Thoughts** The JavaScript30 Looks like a lot of fun. I can't wait to learn some more code. 
+
+### Day 14: Dec 14 2018
+
+**Today's Progress**
+It's day 14 for #100daysofcodechallenge #100DaysOfCode I made the #javascript30 clock and redid some of the #CSS. #CodeNewbie. I also got my drum machine going but have not updated css yet.
+
+**Thoughts** I made a thing and had fun. 
+
+
