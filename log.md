@@ -104,4 +104,36 @@ It's day 14 for #100daysofcodechallenge #100DaysOfCode I made the #javascript30 
 
 **Thoughts** I made a thing and had fun. 
 
+### Day 15: Dec 15 2018
+
+**Today's Progress**
+Today for #100DaysOfCode  day 15( I miss counted yesterday.) I did @freeCodeCamp accessibility section. #CodeNewbie Games night with friends.
+
+**Thoughts** I tried to make a logo and did some JavaScript.
+
+### Day 16: Dec 18 2018
+
+**Today's Progress**
+Today for #100DaysOfCode day 16/100 I worked on #CSS3 and  #Flexbox with #freeCodeCamp responsive front end section. I'm really close to getting through the first certification.  Just have to do 4 more of the challenges after finishing out the lessons.
+
+**Thoughts** Flexbox is nice to work with. Was a little different than I remember the first time I tried to use it. 
+
+### Day 17: Dec 19 2018
+
+**Today's Progress**
+
+#100DaysOfCode  day 17/100. Today I worked with @AdobeXD and watched some Youtube videos on some landing page design ideas.
+
+**Thoughts** Debating on a landing page for my website. 
+
+### Day 18: Dec 20 2018
+
+**Today's Progress**
+
+#100DaysOfCode 18/100 For this addition of 100 days of coding I did a #javascript30 lesson. It will be on my @github located in my profile. I also downloaded a trial of Paint Shop CC to attempt to make a logo. #CodeNewbie
+
+**Thoughts** Gimp is free but Adobe Photo Shop is tons easier to use hm..
+
+
+
 
