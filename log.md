@@ -235,7 +235,7 @@ Today I worked on #javascript30 and messed with the search ahead lesson. I ran i
 
 **Thoughts** More Javascript30 to make some progress on web dev life.
 
-### Day 29: jan 23 2019
+### Day 30: jan 23 2019
 
 **Today's Progress**
 
@@ -243,3 +243,11 @@ R0D30 #100DaysOfCode @freeCodeCamp #CodeNewbie #GoGetters
 So I learned today that jshint doesn't like functions being nested inside a loop. will have to look into this. Also watched an interesting video on #WordPress and #javascript.
 
 **Thoughts** Still thinking about starting a Web Blog. 
+
+### Day 31: jan 24 2019
+
+**Today's Progress**
+Today I did a lesson from my #javascript book and worked on my github logs. A Smarter Way to Learn JavaScript is the book if your interested.
+
+**Thoughts** The JavaScript books online lesson is a little frustrating.
+
