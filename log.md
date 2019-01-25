@@ -134,6 +134,112 @@ Today for #100DaysOfCode day 16/100 I worked on #CSS3 and  #Flexbox with #freeCo
 
 **Thoughts** Gimp is free but Adobe Photo Shop is tons easier to use hm..
 
+**Today's Progress**
 
+Today for #100DaysOfCode I worked on #bootstrap4 and made a image gallery.  I also worked on some #javascript30 and did some arrays. They will be on my github tomorrow It's D19/100 for #100DaysOfCode #CodeNewbie 
+@freeCodeCamp
 
+**Thoughts** Javascript30 is teaching me a lot. 
 
+**Today's Progress**
+
+#100DaysOfCode Day 20. On this episode of 100 days of code I did some more #javascript30 Arrays and read through some #GraphQL documentation. (link: https://twitter.com/officalajsmith/status/1076679391348965378/photo/1) pic.twitter.com/UNFRNCvTwG
+
+**Thoughts** Arrays are interesting but will hopefully make things easier once I learn them more.
+
+**Today's Progress**
+
+#100DaysOfCode Day 20. On this episode of 100 days of code I did some more #javascript30 Arrays and read through some #GraphQL documentation. (link: https://twitter.com/officalajsmith/status/1076679391348965378/photo/1) pic.twitter.com/UNFRNCvTwG
+
+**Thoughts** Arrays are interesting but will hopefully make things easier once I learn them more.
+
+## Day 21: Dec 25 2018
+
+**Today's Progress**
+
+R0D21 #100DaysOfCode @freeCodeCamp #CodeNewbie 
+Today I worked on #CSS3 Grid and #flexbox properties.  After that I started a Bootstrap 4 project called Museum of Candy from the Web Developer Bootcamp. And before bed I will do another #javascript30 lesson.
+
+**Thoughts** The Web Dev course is nice. 
+
+### Day 22: Dec 26 2018
+
+**Today's Progress**
+
+R0D22 #100DaysOfCode @freeCodeCamp #CodeNewbie 
+Today I continued working on the Museum of Candy from the Web Developers bootcamp. There was a some #javascript30 involved, I did the flex image gallery. That was actually a lot of fun and gave me an idea for something to make.
+
+**Thoughts** The Web Dev course helps motivate me a little. 
+
+### Day 23: Dec 29 2018
+
+**Today's Progress**
+
+R0D23 #100DaysOfCode @freeCodeCamp #CodeNewbie 
+Today I continued working on the Museum of Candy from the Web Developers bootcamp and finished it up. I ran our of time for #javascript30 :(. I did however have to fix the #javascript for a scroll color change because of some errors.
+
+**Thoughts** More of yesterday no extra thoughts today. 
+
+### Day 24: Dec 29 2018
+
+**Today's Progress**
+
+R0D24 #100DaysOfCode @freeCodeCamp #CodeNewbie 
+This was a more laid back day, I read some articles and worked through a walk through on how to debug #javascript without console.log.
+
+**Thoughts** Was a lazy day, but made sure to get something done. 
+
+### Day 25: jan 12 2019
+
+**Today's Progress**
+
+R0D25 #100DaysOfCode @freeCodeCamp #CodeNewbie #GoGetters 
+After a small break for the holidays I am back and learning more coding. Today I worked on #javascript foreach and how to use it for data arrays.  Also worked on a todo list app.
+
+**Thoughts** Took a small break and its time to get moving again. 
+
+### Day 26: jan 14 2019
+
+**Today's Progress**
+
+R0D26 #100DaysOfCode 
+@freeCodeCamp #CodeNewbie #GoGetters 
+Today I watched some @YouTube videos on #Linux tips and worked on my laptop to get more of my development tools setup. I have been enjoying @ManjaroLinux with KDE plasma desktop.
+
+**Thoughts** I decided to try linux on my desktop and laptop both for awhile. 
+
+### Day 27: jan 16 2019
+
+**Today's Progress**
+
+R0D27 #100DaysOfCode @freeCodeCamp#CodeNewbie #GoGetters 
+I decided to change my desktop to @ManjaroLinux and give it try. It's been a little bit more tricky than the laptop. But I am confident once its completely setup I will enjoy it. Just got my games left to install.
+
+**Thoughts** I decided to try linux on my desktop and laptop both for awhile. 
+
+### Day 28: jan 18 2019
+
+**Today's Progress**
+
+R0D28 #100DaysOfCode @freeCodeCamp #CodeNewbie #GoGetters 
+I got so into playing with some responsive background design stuff with bootstrap I forgot to do my update for the day. Also had to play with the json data of Vscode because It wanted to use Firefox instead of chrome.
+
+**Thoughts** Worked on my Minecraft Status page I have been messing with. 
+
+### Day 29: jan 22 2019
+
+**Today's Progress**
+
+R0D29 #100DaysOfCode @freeCodeCamp #CodeNewbie #GoGetters 
+Today I worked on #javascript30 and messed with the search ahead lesson. I ran into a bug I will work on tomorrow. Earlier today(yesterday) I read through some Linux tips and setup VirtualBox. Still rocking @ManjaroLinux
+
+**Thoughts** More Javascript30 to make some progress on web dev life.
+
+### Day 29: jan 23 2019
+
+**Today's Progress**
+
+R0D30 #100DaysOfCode @freeCodeCamp #CodeNewbie #GoGetters 
+So I learned today that jshint doesn't like functions being nested inside a loop. will have to look into this. Also watched an interesting video on #WordPress and #javascript.
+
+**Thoughts** Still thinking about starting a Web Blog. 
